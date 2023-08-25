@@ -3,6 +3,7 @@
 
 📑 [coco dataset](https://cocodataset.org/#download)
 먼저 위의 링크에서 파일을 다운 받은 후 사용할 파일들만 따로 빼서 정리를 해줬습니다
+
 😺🐶클래스들 중에서 cat과  dog가 들어있는 17, 18 클래스만 사용하기로 하고 cat클래스는 0, dog클래스는 1로 다시 변경해주었습니다
 
 #### 💻학습에 사용한 모델: YOLOv8n
